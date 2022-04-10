@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/boolean44-repos/Welcome-to-boolean44/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+![image](https://imgs.search.brave.com/UEuxJqZnEh2lnC3Au7F-GzFRfMzAc1DNjzT3OmDBaJA/rs:fit:920:888:1/g:ce/aHR0cHM6Ly93d3cu/dmh2LnJzL2ZpbGUv/bWF4LzM0LzM0MTc4/OF9zaHJlay1mYWNl/LXBuZy5wbmc)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
